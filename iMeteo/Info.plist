@@ -20,6 +20,19 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Nous avons besoin de votre position pour affiche le temps chez vous.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Nous avons besoin de votre position pour affiche le temps chez vous.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Nous avons besoin de votre position pour affiche le temps chez vous.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Nous avons besoin de votre position pour affiche le temps chez vous.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

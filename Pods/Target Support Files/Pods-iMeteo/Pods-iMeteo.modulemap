@@ -1,0 +1,6 @@
+module Pods_iMeteo {
+  umbrella header "Pods-iMeteo-umbrella.h"
+
+  export *
+  module * { export * }
+}
